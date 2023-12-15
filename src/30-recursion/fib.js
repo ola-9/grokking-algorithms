@@ -11,5 +11,3 @@ const fib = (n) => {
 };
 
 export default fib;
-
-

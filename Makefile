@@ -9,3 +9,6 @@ lint:
 
 fix-lint:
 	npx eslint . --fix
+
+update-git-hooks:
+	npx simple-git-hooks
