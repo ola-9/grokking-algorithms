@@ -19,5 +19,3 @@ const binarySearch = (coll, item) => {
 };
 
 export default binarySearch;
-
-
