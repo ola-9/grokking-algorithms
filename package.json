@@ -19,7 +19,7 @@
     "node": ">=18"
   },
   "simple-git-hooks": {
-    "pre-commit": "make fix-lint",
-    "pre-push": "make test"
+    "pre-commit": "npx eslint . --fix",
+    "pre-push": "npm run test"
   }
 }
