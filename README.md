@@ -10,7 +10,7 @@
 make install
 ```
 
-## Run test
+## Run tests
 
 ```bash
 make test
