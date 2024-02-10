@@ -5,7 +5,7 @@ test:
 	npm run test
 
 single-test:
-	npm test -- __tests__/binary-r-search.test.js
+	npm test -- __tests__/bfs.test.js
 
 test-coverage:
 	npm test -- --coverage --coverageProvider=v8

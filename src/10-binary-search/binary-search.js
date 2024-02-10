@@ -18,4 +18,7 @@ const binarySearch = (coll, item) => {
   return null;
 };
 
+// const res = binarySearch([1, 2, 2, 2, 3, 4, 5, 6], 2);
+// console.log(res);
+
 export default binarySearch;
